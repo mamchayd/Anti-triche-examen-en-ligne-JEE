@@ -1,0 +1,20 @@
+# Anti-triche-examen-en-ligne-JEE
+Plateforme de contrôle de tricherie dans un examen en ligne
+
+![index](https://user-images.githubusercontent.com/38794830/99914067-563a3200-2cfb-11eb-93ee-727452957388.PNG)
+![login](https://user-images.githubusercontent.com/38794830/99914071-59cdb900-2cfb-11eb-8563-337ff8307c5d.PNG)
+![log2](https://user-images.githubusercontent.com/38794830/99914073-5afee600-2cfb-11eb-8065-057c9d440b28.PNG)
+![login1](https://user-images.githubusercontent.com/38794830/99914074-5d614000-2cfb-11eb-97c0-ac0c4508ce8c.PNG)
+![gestion](https://user-images.githubusercontent.com/38794830/99914075-5f2b0380-2cfb-11eb-9994-b2c7248c3c56.PNG)
+![exam](https://user-images.githubusercontent.com/38794830/99914077-605c3080-2cfb-11eb-9e2b-6c384fda3092.PNG)
+![gestion](https://user-images.githubusercontent.com/38794830/99914078-618d5d80-2cfb-11eb-9af5-c4f50b7532b1.PNG)
+![note](https://user-images.githubusercontent.com/38794830/99914079-63572100-2cfb-11eb-93e5-c2c76c8b714b.PNG)
+![page1etu](https://user-images.githubusercontent.com/38794830/99914082-6520e480-2cfb-11eb-9cbc-00cd5e79fc8e.PNG)
+![pageexam](https://user-images.githubusercontent.com/38794830/99914085-66521180-2cfb-11eb-8f32-61f58ad9ee86.PNG)
+![profilpro](https://user-images.githubusercontent.com/38794830/99914091-6a7e2f00-2cfb-11eb-9522-1b223abcf96a.PNG)
+![qest](https://user-images.githubusercontent.com/38794830/99914099-6ce08900-2cfb-11eb-96de-1dee6dc34872.PNG)
+![questajout](https://user-images.githubusercontent.com/38794830/99914102-6eaa4c80-2cfb-11eb-8695-938aa18d5636.PNG)
+![addexam](https://user-images.githubusercontent.com/38794830/99914105-70741000-2cfb-11eb-80ba-664ef11373d1.PNG)
+![contraint](https://user-images.githubusercontent.com/38794830/99914107-723dd380-2cfb-11eb-9df9-409671b3df7e.PNG)
+![editexam](https://user-images.githubusercontent.com/38794830/99914109-74079700-2cfb-11eb-8341-b5dc7c7db77d.PNG)
+![erreurDate](https://user-images.githubusercontent.com/38794830/99914114-75d15a80-2cfb-11eb-815e-4722cfb9d426.PNG)
